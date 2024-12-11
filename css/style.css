@@ -410,12 +410,13 @@ nav {
 
 .content1-text {
     font-family: 'Poppins', sans-serif;
+    color: #070707;
     font-size: 1rem;
     display: flex;
-    margin: auto auto;
+    margin: auto;
     text-align: center;
     background-color: #fcfcfc;
-    border-radius: 50px;
+    border-radius: 3.125rem;
     vertical-align: middle;
     padding: 3.125rem 3.125rem;
     height: 18.75rem;
