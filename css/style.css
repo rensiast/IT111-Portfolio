@@ -420,6 +420,7 @@ nav {
     vertical-align: middle;
     padding: 3.125rem 3.125rem;
     height: 18.75rem;
+    max-width: 60%;
 }
 
 .sdg3-gif {
