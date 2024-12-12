@@ -2,6 +2,10 @@
 
 Finals Project for my IT111 course.
 
+### Link to view this Website
+
+https://it-111-portfolio.vercel.app/
+
 ## About the Project
 
 In this project, I leveraged HTML to structure the content of my portfolio, emphasizing
@@ -20,7 +24,7 @@ The SDG featured here about Good Health and Well Being are relevant to my enviro
 
 Though I have been with various organizations already, the amount of projects I've done are still few to showcase for my portfolio. I'm continuing to experiment on more varied styles and techniques.
 
-### How to Reach Me
+## How to Reach Me
 
 I'm currently only having my public platform on Facebook, Instagram, or you can reach me through my email. You can also reach my works here in Github.
 
