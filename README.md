@@ -22,8 +22,9 @@ Though I have been with various organizations already, the amount of projects I'
 
 ### How to Reach Me
 
-I'm currently only having my public platform on Facebook, Instagram, or you can reach me through my email.
+I'm currently only having my public platform on Facebook, Instagram, or you can reach me through my email. You can also reach my works here in Github.
 
 1. Facebook - Kit Brendan Orlanes
 2. Instagram - @bamtorkit
 3. Email Address - orlanes.kit@gmail.com
+4. Github - rensiast
